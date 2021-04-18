@@ -1,6 +1,6 @@
 # spoternative
 
-A new Flutter project.
+A clone of Spotify using a Spotify api and flutter for interface
 
 ## Getting Started
 
